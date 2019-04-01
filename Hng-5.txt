@@ -1,0 +1,5 @@
+This is a Repo covering all activities of HNG5-Internship, 2019.
+In this Repo Weekly Tasks and achievements would be documented.
+
+Please check the ReadME.md for more information.
+
