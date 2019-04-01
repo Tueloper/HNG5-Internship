@@ -1,5 +1,3 @@
 OOOOO, I forgot to introduce myself
 
-I, am
-###Ozurumba Tochukwu
-###AKA Tueloper
+I, am Ozurumba Tochukwu A.K.A Tueloper
